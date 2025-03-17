@@ -4,7 +4,7 @@ import os
 from yt_dlp import YoutubeDL
 
 # Telegram Bot Token from BotFather
-BOT_TOKEN = "7807706963:AAEO-nTUU922p3IF-zAfceIzGteZALTJDjw"
+BOT_TOKEN = xyz
 bot = telebot.TeleBot(BOT_TOKEN)
 
 def download_instagram_reel(url):
